@@ -1,0 +1,5190 @@
+----PATTERN----_3_5_7_14_22_26_56
+ write /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+data size not provided
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+data size not provided
+----PATTERN----_3_4_5_6_14_22_26_84_85
+ read /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 0 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 500 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 0 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 500 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 0 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+data size not provided
+----PATTERN----_3_4_5_6_14_22_28_47_51_54_84_85_SUCCESS
+ read /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (256512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+Rounding data size to fit block count (512512 bytes)
+read: Success
+----PATTERN----_3_4_5_6_14_22_29_47_51_54_84_85_SUCCESS
+ read /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+ read /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+RETURN VALUE OF argsconfig_parse: 0
+RETURN VALUE OF get_dev: 4
+read: Success
+----PATTERN----_3_5_7_14_22_28_39_46_51_54_56_SUCCESS
+ write /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 0 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 500 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 500 -d readbuf
+Rounding data size to fit block count (512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 500 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 500 -z 1000 -d readbuf
+Rounding data size to fit block count (256512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 500 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 1000 -z 1000 -d readbuf
+Rounding data size to fit block count (512512 bytes)
+write: Success
+----PATTERN----_3_5_7_14_22_29_39_46_51_54_56_SUCCESS
+ write /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 0 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 500 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+write: Success
+ write /dev/nvme0n1 -s 1000 -c 0 -z 1000 -d readbuf
+write: Success
