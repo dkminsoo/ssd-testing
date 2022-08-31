@@ -8238,7 +8238,7 @@ int main(int argc, char **argv)
 	char param_string[1024]; // number change?
 	
 	// May need to change file path
-	fptr = fopen("/home/david/nvme-cli/LOG/logger.txt","a");
+	fptr = fopen("/home/nvme-cli/LOG/logger.txt","a");
 
 	// Concatenate parameters
 	int i;
